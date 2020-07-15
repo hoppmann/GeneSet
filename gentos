@@ -27,6 +27,6 @@ done
 java \
 -Xmx30g \
 -classpath $CP \
-de.gentos.main.Main $@
+de.geneSet.main.Main $@
 
 
